@@ -1,0 +1,32 @@
+body {
+background-color: rgb(17, 255, 122);
+}
+
+.container-navbar {
+	width: 100%;
+}
+
+.ul-navbar {
+	height: 200%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+
+}
+
+.li-navbar {
+	border: 1px solid whitesmoke;
+	background-color: black;
+	color: whitesmoke;
+	padding: 10px;
+	list-style-type: none;
+}
+
+.container-content {
+	background-color: whitesmoke;
+}
+
+.container-footer {
+	background-color: magenta;
+}
